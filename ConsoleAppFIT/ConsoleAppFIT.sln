@@ -7,9 +7,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppFIT", "ConsoleApp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovimentoBot", "MovimentoBot\MovimentoBot.csproj", "{EE197774-0DFD-47B7-9302-26F1A446D298}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromo", "Palindromo\Palindromo.csproj", "{373D1B77-9776-4B5C-A525-F523A119DE82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindromo", "Palindromo\Palindromo.csproj", "{373D1B77-9776-4B5C-A525-F523A119DE82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisao", "Divisao\Divisao.csproj", "{C285ADE1-52FD-4CC0-89D6-AD75FBC40CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divisao", "Divisao\Divisao.csproj", "{C285ADE1-52FD-4CC0-89D6-AD75FBC40CC5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConversorIntParaBinario", "ConversorIntParaBinario\ConversorIntParaBinario.csproj", "{F92451B6-2852-4553-93E8-1886C754CD74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPS", "GPS\GPS.csproj", "{ED0F0F72-D8A2-4CF4-A033-49EA90525848}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{C285ADE1-52FD-4CC0-89D6-AD75FBC40CC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C285ADE1-52FD-4CC0-89D6-AD75FBC40CC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C285ADE1-52FD-4CC0-89D6-AD75FBC40CC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F92451B6-2852-4553-93E8-1886C754CD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92451B6-2852-4553-93E8-1886C754CD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F92451B6-2852-4553-93E8-1886C754CD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92451B6-2852-4553-93E8-1886C754CD74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0F0F72-D8A2-4CF4-A033-49EA90525848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0F0F72-D8A2-4CF4-A033-49EA90525848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0F0F72-D8A2-4CF4-A033-49EA90525848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0F0F72-D8A2-4CF4-A033-49EA90525848}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
